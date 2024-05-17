@@ -8,3 +8,11 @@
 
   Em seguida concatene as variáveis em uma frase que faça sentido
 */
+
+const nomePais = "Brasil";
+const pontosTuristicos = "Pelourinho, Marco Zero";
+const capitalDoPais = "Brasilia";
+const quantidadeDeEstados = 26;
+const eDaAmericaLatina = true;
+
+console.log("Eu moro no país " + nomePais + "...")
