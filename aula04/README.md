@@ -37,8 +37,8 @@ for (let i = 0; i < 9; i++) {
     <summary> <b>Pratica:</b> Escreva um código JavaScript para exibir os números de 1 até 1000 na tela.</summary>
 
 ```javascript
-for (let i = 0; i < 11; i++) {
-    console.log(2*i);
+for (let i = 0; i <= 1000; i++) {
+    console.log(i);
 }
 ```
   </details>
@@ -87,4 +87,4 @@ while(i < n){
 
 1. Faça um algoritmo que apresente o quadrado de cada um dos número entre 1 a 100.
 
-2. Escreva um código capaz de calcular a tabuada de 9, em seguida imprima bonitinho na tela (ex.:  9 x 1 = 9 e assim sucessivamente).
+2. Mostre todos os números pares existentes de 1 até 100;
